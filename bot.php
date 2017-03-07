@@ -1,3 +1,5 @@
+$proxy = 'velodrome.usefixie.com:80';
+$proxyauth = 'http://fixie:AxdPBHLlDIrDtcq';
 <?php
 $access_token = 'z4QzjGs1/pt5R0yM2LchpWKI0nlQ16oNT+se2I7/wvQw1H1l3Y6+ZbWLKZX722Q8tXmFz5ZkTw3cqiNISIowIlIX9r5y5lh8AyOoTD7VqySbskj07JMVHbZzlTZfveBWWcmPYbxKqYPzG6OCS95qZAdB04t89/1O/w1cDnyilFU=';
 
